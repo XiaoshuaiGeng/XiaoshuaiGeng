@@ -1,4 +1,4 @@
-### ![Xiaoshuai Geng's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XiaoshuaiGeng)]
+### ![Xiaoshuai Geng's github stats](https://github-readme-stats.vercel.app/api?username=XiaoshuaiGeng&theme=vue&show_icons=true)
 <!--
 **XiaoshuaiGeng/XiaoshuaiGeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
